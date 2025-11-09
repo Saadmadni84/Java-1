@@ -25,3 +25,13 @@ Each file focuses on a specific topic, making it a great reference for students 
 1. Clone the repository:
    ```bash
    git clone https://github.com/Saadmadni84/Java-1.git
+   
+🧠 Purpose
+This project was created to:
+Practice Java syntax and logic-building
+Understand problem-solving through small coding exercises
+Prepare for coding interviews or Java coursework
+👨‍💻 Author
+Saad Madni
+Student & Java Developer
+GitHub: Saadmadni84
